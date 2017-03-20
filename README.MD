@@ -92,4 +92,4 @@ Trello 另外一個特色就是簡單快速的展開你所有的工作、展開�
 HackMD可以進行多人操作，在左邊的黑色頁面可以讓一群人在裡面一起打資料，所以可以進行到多人分工的目的。
 使用 markdown 做共筆及投影片。
 
-theme: jekyll-theme-modernist
+
