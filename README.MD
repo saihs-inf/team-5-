@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 # 第一次上課內容
 
 ## Slack
